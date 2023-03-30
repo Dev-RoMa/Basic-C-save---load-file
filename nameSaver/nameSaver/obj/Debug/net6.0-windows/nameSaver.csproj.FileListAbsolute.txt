@@ -1,0 +1,17 @@
+D:\Proyectos\C#\windowForm\nameSaver\nameSaver\bin\Debug\net6.0-windows\nameSaver.exe
+D:\Proyectos\C#\windowForm\nameSaver\nameSaver\bin\Debug\net6.0-windows\nameSaver.deps.json
+D:\Proyectos\C#\windowForm\nameSaver\nameSaver\bin\Debug\net6.0-windows\nameSaver.runtimeconfig.json
+D:\Proyectos\C#\windowForm\nameSaver\nameSaver\bin\Debug\net6.0-windows\nameSaver.dll
+D:\Proyectos\C#\windowForm\nameSaver\nameSaver\bin\Debug\net6.0-windows\nameSaver.pdb
+D:\Proyectos\C#\windowForm\nameSaver\nameSaver\obj\Debug\net6.0-windows\nameSaver.csproj.AssemblyReference.cache
+D:\Proyectos\C#\windowForm\nameSaver\nameSaver\obj\Debug\net6.0-windows\nameSaver.Form1.resources
+D:\Proyectos\C#\windowForm\nameSaver\nameSaver\obj\Debug\net6.0-windows\nameSaver.csproj.GenerateResource.cache
+D:\Proyectos\C#\windowForm\nameSaver\nameSaver\obj\Debug\net6.0-windows\nameSaver.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\C#\windowForm\nameSaver\nameSaver\obj\Debug\net6.0-windows\nameSaver.AssemblyInfoInputs.cache
+D:\Proyectos\C#\windowForm\nameSaver\nameSaver\obj\Debug\net6.0-windows\nameSaver.AssemblyInfo.cs
+D:\Proyectos\C#\windowForm\nameSaver\nameSaver\obj\Debug\net6.0-windows\nameSaver.csproj.CoreCompileInputs.cache
+D:\Proyectos\C#\windowForm\nameSaver\nameSaver\obj\Debug\net6.0-windows\nameSaver.dll
+D:\Proyectos\C#\windowForm\nameSaver\nameSaver\obj\Debug\net6.0-windows\refint\nameSaver.dll
+D:\Proyectos\C#\windowForm\nameSaver\nameSaver\obj\Debug\net6.0-windows\nameSaver.pdb
+D:\Proyectos\C#\windowForm\nameSaver\nameSaver\obj\Debug\net6.0-windows\nameSaver.genruntimeconfig.cache
+D:\Proyectos\C#\windowForm\nameSaver\nameSaver\obj\Debug\net6.0-windows\ref\nameSaver.dll
